@@ -10,8 +10,6 @@ At work, I often find myself copying excel data to textual table/csv/yaml files.
 
 ### Download the plugin file
 Download or git-clone the CopyFormatted.xlam file. Keep it in a location which would not change that often.
-Download:
-Git-Clone:
 
 ### Add Plugin to Excel 
 1. Make sure you have Developer's tab visible in Excel. If not visible, On the File tab, go to Options > Customize Ribbon. Under Customize the Ribbon and under Main Tabs, select the Developer check box.
